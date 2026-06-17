@@ -1,0 +1,12 @@
+{
+  "name": "mixing-node-workspace",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node telegram-app/server.mjs --open",
+    "app": "node telegram-app/server.mjs --open",
+    "rebuild": "node tools/build_inventory.mjs"
+  }
+}
+

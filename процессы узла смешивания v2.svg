@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1580" height="1360" viewBox="0 0 1580 1360">
+<style>text{font-family:Arial, sans-serif;font-size:14px;fill:#222}.title{font-size:25px;font-weight:bold}.caption{font-size:14px;fill:#555}.box{stroke:#666;stroke-width:1.4;rx:8;ry:8}.small{font-size:13px}</style>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#666"/></marker></defs>
+<rect x="0" y="0" width="1580" height="1360" fill="#ffffff"/>
+<text class="title" x="40" y="35">Процессы узла смешивания: ТМЦ, приготовление, контроль и отчетность</text>
+<text class="caption" x="40" y="55">Черновая рабочая диаграмма по описанию от 16.06.2026</text>
+<line x1="130.0" y1="99.0" x2="355.0" y2="99.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="355.0" y1="99.0" x2="600.0" y2="99.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="600.0" y1="99.0" x2="1155.0" y2="218.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="860.0" y1="98.0" x2="1155.0" y2="218.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="1155.0" y1="218.0" x2="1145.0" y2="99.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="1145.0" y1="99.0" x2="1415.0" y2="99.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="130.0" y1="219.0" x2="345.0" y2="219.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="345.0" y1="219.0" x2="1155.0" y2="218.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="585.0" y1="218.0" x2="1155.0" y2="218.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="855.0" y1="219.0" x2="165.0" y2="1105.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="1155.0" y1="218.0" x2="1415.0" y2="219.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="1415.0" y1="219.0" x2="150.0" y2="558.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="155.0" y1="375.0" x2="435.0" y2="373.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="435.0" y1="373.0" x2="1040.0" y2="558.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="740.0" y1="368.0" x2="1025.0" y2="370.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="1025.0" y1="370.0" x2="1305.0" y2="370.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="740.0" y1="368.0" x2="150.0" y2="558.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="150.0" y1="558.0" x2="430.0" y2="558.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="430.0" y1="558.0" x2="730.0" y2="558.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="730.0" y1="558.0" x2="1040.0" y2="558.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="1040.0" y1="558.0" x2="1345.0" y2="558.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="1345.0" y1="558.0" x2="1345.0" y2="678.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="1345.0" y1="678.0" x2="150.0" y2="735.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="150.0" y1="735.0" x2="430.0" y2="735.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="430.0" y1="735.0" x2="725.0" y2="735.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="725.0" y1="735.0" x2="1025.0" y2="735.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="1025.0" y1="735.0" x2="1360.0" y2="733.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="1360.0" y1="733.0" x2="150.0" y2="923.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="150.0" y1="923.0" x2="425.0" y2="923.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="425.0" y1="923.0" x2="730.0" y2="925.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="730.0" y1="925.0" x2="1015.0" y2="925.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="1015.0" y1="925.0" x2="1345.0" y2="925.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="1345.0" y1="925.0" x2="165.0" y2="1105.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="165.0" y1="1105.0" x2="475.0" y2="1103.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="475.0" y1="1103.0" x2="805.0" y2="1103.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="805.0" y1="1103.0" x2="1135.0" y2="1103.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="1135.0" y1="1103.0" x2="1145.0" y2="99.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="1135.0" y1="1103.0" x2="1420.0" y2="1100.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="780.0" y1="1278.0" x2="455.0" y2="1278.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="780.0" y1="1278.0" x2="1115.0" y2="1278.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="455.0" y1="1278.0" x2="740.0" y2="368.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<line x1="1115.0" y1="1278.0" x2="1135.0" y2="1103.0" stroke="#666" stroke-width="1.2" marker-end="url(#arrow)" opacity="0.72"/>
+<rect class="box" x="40" y="70" width="180" height="58" fill="#e1d5e7"/>
+<text class="small" x="130.0" y="91.0" text-anchor="middle" dominant-baseline="middle">Основной склад</text>
+<text class="small" x="130.0" y="108.0" text-anchor="middle" dominant-baseline="middle">СЗР / ТМЦ</text>
+<rect class="box" x="260" y="70" width="190" height="58" fill="#e1d5e7"/>
+<text class="small" x="355.0" y="91.0" text-anchor="middle" dominant-baseline="middle">Перемещение ТМЦ</text>
+<text class="small" x="355.0" y="108.0" text-anchor="middle" dominant-baseline="middle">на склад узла</text>
+<rect class="box" x="500" y="70" width="200" height="58" fill="#e1d5e7"/>
+<text class="small" x="600.0" y="91.0" text-anchor="middle" dominant-baseline="middle">Склад узла:</text>
+<text class="small" x="600.0" y="108.0" text-anchor="middle" dominant-baseline="middle">номенклатура ТМЦ</text>
+<rect class="box" x="750" y="60" width="220" height="76" fill="#e1d5e7"/>
+<text class="small" x="860.0" y="82.0" text-anchor="middle" dominant-baseline="middle">Общая база:</text>
+<text class="small" x="860.0" y="99.0" text-anchor="middle" dominant-baseline="middle">плотности СЗР</text>
+<text class="small" x="860.0" y="116.0" text-anchor="middle" dominant-baseline="middle">и номенклатура</text>
+<rect class="box" x="1030" y="70" width="230" height="58" fill="#e1d5e7"/>
+<text class="small" x="1145.0" y="91.0" text-anchor="middle" dominant-baseline="middle">Отчеты использования ТМЦ</text>
+<text class="small" x="1145.0" y="108.0" text-anchor="middle" dominant-baseline="middle">для списания</text>
+<rect class="box" x="1320" y="70" width="190" height="58" fill="#e1d5e7"/>
+<text class="small" x="1415.0" y="91.0" text-anchor="middle" dominant-baseline="middle">Списание на</text>
+<text class="small" x="1415.0" y="108.0" text-anchor="middle" dominant-baseline="middle">посевные поля</text>
+<rect class="box" x="40" y="190" width="180" height="58" fill="#dae8fc"/>
+<text class="small" x="130.0" y="211.0" text-anchor="middle" dominant-baseline="middle">Идентификация</text>
+<text class="small" x="130.0" y="228.0" text-anchor="middle" dominant-baseline="middle">оператора</text>
+<rect class="box" x="260" y="190" width="170" height="58" fill="#dae8fc"/>
+<text class="small" x="345.0" y="219.0" text-anchor="middle" dominant-baseline="middle">Доступы и уровни</text>
+<rect class="box" x="470" y="175" width="230" height="86" fill="#d5e8d4"/>
+<text class="small" x="585.0" y="202.0" text-anchor="middle" dominant-baseline="middle">Telegram / задание:</text>
+<text class="small" x="585.0" y="219.0" text-anchor="middle" dominant-baseline="middle">рецепт, объем,</text>
+<text class="small" x="585.0" y="236.0" text-anchor="middle" dominant-baseline="middle">норма вылива</text>
+<rect class="box" x="750" y="190" width="210" height="58" fill="#dae8fc"/>
+<text class="small" x="855.0" y="211.0" text-anchor="middle" dominant-baseline="middle">ТС, водитель,</text>
+<text class="small" x="855.0" y="228.0" text-anchor="middle" dominant-baseline="middle">конечное место</text>
+<rect class="box" x="1030" y="175" width="250" height="86" fill="#fff2cc"/>
+<text class="small" x="1155.0" y="202.0" text-anchor="middle" dominant-baseline="middle">Сопоставление рецепта</text>
+<text class="small" x="1155.0" y="219.0" text-anchor="middle" dominant-baseline="middle">с ТМЦ склада узла</text>
+<text class="small" x="1155.0" y="236.0" text-anchor="middle" dominant-baseline="middle">и плотностями</text>
+<rect class="box" x="1320" y="190" width="190" height="58" fill="#fff2cc"/>
+<text class="small" x="1415.0" y="211.0" text-anchor="middle" dominant-baseline="middle">Расчет целевого</text>
+<text class="small" x="1415.0" y="228.0" text-anchor="middle" dominant-baseline="middle">веса / объема</text>
+<rect class="box" x="40" y="340" width="230" height="70" fill="#f8cecc"/>
+<text class="small" x="155.0" y="367.0" text-anchor="middle" dominant-baseline="middle">Монитор оператора:</text>
+<text class="small" x="155.0" y="384.0" text-anchor="middle" dominant-baseline="middle">подсказки и команды</text>
+<rect class="box" x="320" y="330" width="230" height="86" fill="#f8cecc"/>
+<text class="small" x="435.0" y="357.0" text-anchor="middle" dominant-baseline="middle">Оператор выполняет</text>
+<text class="small" x="435.0" y="374.0" text-anchor="middle" dominant-baseline="middle">ручные действия</text>
+<text class="small" x="435.0" y="391.0" text-anchor="middle" dominant-baseline="middle">по указаниям</text>
+<rect class="box" x="610" y="320" width="260" height="96" fill="#f8cecc"/>
+<text class="small" x="740.0" y="352.0" text-anchor="middle" dominant-baseline="middle">Контроль конфигурации</text>
+<text class="small" x="740.0" y="369.0" text-anchor="middle" dominant-baseline="middle">критических кранов</text>
+<text class="small" x="740.0" y="386.0" text-anchor="middle" dominant-baseline="middle">по энкодерам</text>
+<rect class="box" x="930" y="335" width="190" height="70" fill="#f8cecc"/>
+<text class="small" x="1025.0" y="370.0" text-anchor="middle" dominant-baseline="middle">Кран вне алгоритма?</text>
+<rect class="box" x="1180" y="315" width="250" height="110" fill="#f8cecc"/>
+<text class="small" x="1305.0" y="346.0" text-anchor="middle" dominant-baseline="middle">Аварийная реакция:</text>
+<text class="small" x="1305.0" y="363.0" text-anchor="middle" dominant-baseline="middle">насос OFF,</text>
+<text class="small" x="1305.0" y="380.0" text-anchor="middle" dominant-baseline="middle">зуммер,</text>
+<text class="small" x="1305.0" y="397.0" text-anchor="middle" dominant-baseline="middle">подсказка на экран</text>
+<rect class="box" x="40" y="520" width="220" height="76" fill="#ffe6cc"/>
+<text class="small" x="150.0" y="542.0" text-anchor="middle" dominant-baseline="middle">Старт:</text>
+<text class="small" x="150.0" y="559.0" text-anchor="middle" dominant-baseline="middle">емкость смешивания</text>
+<text class="small" x="150.0" y="576.0" text-anchor="middle" dominant-baseline="middle">считаем пустой</text>
+<rect class="box" x="310" y="510" width="240" height="96" fill="#ffe6cc"/>
+<text class="small" x="430.0" y="542.0" text-anchor="middle" dominant-baseline="middle">Контроль уровня</text>
+<text class="small" x="430.0" y="559.0" text-anchor="middle" dominant-baseline="middle">и поплавка</text>
+<text class="small" x="430.0" y="576.0" text-anchor="middle" dominant-baseline="middle">в фильтре-отстойнике</text>
+<rect class="box" x="610" y="520" width="240" height="76" fill="#ffe6cc"/>
+<text class="small" x="730.0" y="550.0" text-anchor="middle" dominant-baseline="middle">Забор чистой воды</text>
+<text class="small" x="730.0" y="567.0" text-anchor="middle" dominant-baseline="middle">в емкость смешивания</text>
+<rect class="box" x="910" y="505" width="260" height="106" fill="#ffe6cc"/>
+<text class="small" x="1040.0" y="542.0" text-anchor="middle" dominant-baseline="middle">Подготовка химии:</text>
+<text class="small" x="1040.0" y="559.0" text-anchor="middle" dominant-baseline="middle">тарированная тара,</text>
+<text class="small" x="1040.0" y="576.0" text-anchor="middle" dominant-baseline="middle">ручной отбор оператором</text>
+<rect class="box" x="1230" y="520" width="230" height="76" fill="#ffe6cc"/>
+<text class="small" x="1345.0" y="550.0" text-anchor="middle" dominant-baseline="middle">Трубка Вентури:</text>
+<text class="small" x="1345.0" y="567.0" text-anchor="middle" dominant-baseline="middle">создание вакуума</text>
+<rect class="box" x="1230" y="640" width="230" height="76" fill="#ffe6cc"/>
+<text class="small" x="1345.0" y="670.0" text-anchor="middle" dominant-baseline="middle">Соленоид вакуума:</text>
+<text class="small" x="1345.0" y="687.0" text-anchor="middle" dominant-baseline="middle">открыть / закрыть</text>
+<rect class="box" x="40" y="700" width="220" height="70" fill="#f5f5f5"/>
+<text class="small" x="150.0" y="727.0" text-anchor="middle" dominant-baseline="middle">Мерный резервуар</text>
+<text class="small" x="150.0" y="744.0" text-anchor="middle" dominant-baseline="middle">на весах</text>
+<rect class="box" x="310" y="690" width="240" height="90" fill="#f5f5f5"/>
+<text class="small" x="430.0" y="719.0" text-anchor="middle" dominant-baseline="middle">Отображаем цель</text>
+<text class="small" x="430.0" y="736.0" text-anchor="middle" dominant-baseline="middle">и реальную динамику</text>
+<text class="small" x="430.0" y="753.0" text-anchor="middle" dominant-baseline="middle">вес / объем</text>
+<rect class="box" x="610" y="700" width="230" height="70" fill="#f5f5f5"/>
+<text class="small" x="725.0" y="727.0" text-anchor="middle" dominant-baseline="middle">Достигнуто</text>
+<text class="small" x="725.0" y="744.0" text-anchor="middle" dominant-baseline="middle">требуемое значение?</text>
+<rect class="box" x="910" y="700" width="230" height="70" fill="#f5f5f5"/>
+<text class="small" x="1025.0" y="727.0" text-anchor="middle" dominant-baseline="middle">Перекрыть соленоид</text>
+<text class="small" x="1025.0" y="744.0" text-anchor="middle" dominant-baseline="middle">вакуума</text>
+<rect class="box" x="1230" y="680" width="260" height="106" fill="#f5f5f5"/>
+<text class="small" x="1360.0" y="717.0" text-anchor="middle" dominant-baseline="middle">Оператор открывает</text>
+<text class="small" x="1360.0" y="734.0" text-anchor="middle" dominant-baseline="middle">кран всасывания химии</text>
+<text class="small" x="1360.0" y="751.0" text-anchor="middle" dominant-baseline="middle">в поток воды</text>
+<rect class="box" x="40" y="880" width="220" height="86" fill="#d5e8d4"/>
+<text class="small" x="150.0" y="907.0" text-anchor="middle" dominant-baseline="middle">Мойка мерного</text>
+<text class="small" x="150.0" y="924.0" text-anchor="middle" dominant-baseline="middle">резервуара</text>
+<text class="small" x="150.0" y="941.0" text-anchor="middle" dominant-baseline="middle">в промежутках</text>
+<rect class="box" x="310" y="880" width="230" height="86" fill="#d5e8d4"/>
+<text class="small" x="425.0" y="907.0" text-anchor="middle" dominant-baseline="middle">Закольцовка:</text>
+<text class="small" x="425.0" y="924.0" text-anchor="middle" dominant-baseline="middle">из резервуара</text>
+<text class="small" x="425.0" y="941.0" text-anchor="middle" dominant-baseline="middle">в резервуар</text>
+<rect class="box" x="610" y="890" width="240" height="70" fill="#d5e8d4"/>
+<text class="small" x="730.0" y="917.0" text-anchor="middle" dominant-baseline="middle">Обеспечение вакуума</text>
+<text class="small" x="730.0" y="934.0" text-anchor="middle" dominant-baseline="middle">в трубке Вентури</text>
+<rect class="box" x="910" y="890" width="210" height="70" fill="#d5e8d4"/>
+<text class="small" x="1015.0" y="917.0" text-anchor="middle" dominant-baseline="middle">Обязательное</text>
+<text class="small" x="1015.0" y="934.0" text-anchor="middle" dominant-baseline="middle">перемешивание</text>
+<rect class="box" x="1230" y="890" width="230" height="70" fill="#d5e8d4"/>
+<text class="small" x="1345.0" y="917.0" text-anchor="middle" dominant-baseline="middle">Выдача раствора</text>
+<text class="small" x="1345.0" y="934.0" text-anchor="middle" dominant-baseline="middle">на грузовое авто</text>
+<rect class="box" x="40" y="1060" width="250" height="90" fill="#dae8fc"/>
+<text class="small" x="165.0" y="1089.0" text-anchor="middle" dominant-baseline="middle">Идентификация авто,</text>
+<text class="small" x="165.0" y="1106.0" text-anchor="middle" dominant-baseline="middle">водителя, количества</text>
+<text class="small" x="165.0" y="1123.0" text-anchor="middle" dominant-baseline="middle">и конечного места</text>
+<rect class="box" x="340" y="1050" width="270" height="106" fill="#dae8fc"/>
+<text class="small" x="475.0" y="1087.0" text-anchor="middle" dominant-baseline="middle">Финальная доливка воды</text>
+<text class="small" x="475.0" y="1104.0" text-anchor="middle" dominant-baseline="middle">через емкость смешивания</text>
+<text class="small" x="475.0" y="1121.0" text-anchor="middle" dominant-baseline="middle">в машину</text>
+<rect class="box" x="670" y="1050" width="270" height="106" fill="#dae8fc"/>
+<text class="small" x="805.0" y="1087.0" text-anchor="middle" dominant-baseline="middle">Промывка системы</text>
+<text class="small" x="805.0" y="1104.0" text-anchor="middle" dominant-baseline="middle">этой же процедурой</text>
+<text class="small" x="805.0" y="1121.0" text-anchor="middle" dominant-baseline="middle">10 м3: 2 м3 на мойку</text>
+<rect class="box" x="1000" y="1050" width="270" height="106" fill="#dae8fc"/>
+<text class="small" x="1135.0" y="1087.0" text-anchor="middle" dominant-baseline="middle">Отчет партии:</text>
+<text class="small" x="1135.0" y="1104.0" text-anchor="middle" dominant-baseline="middle">раствор, ТМЦ,</text>
+<text class="small" x="1135.0" y="1121.0" text-anchor="middle" dominant-baseline="middle">поле, авто, водитель</text>
+<rect class="box" x="1330" y="1060" width="180" height="80" fill="#dae8fc"/>
+<text class="small" x="1420.0" y="1092.0" text-anchor="middle" dominant-baseline="middle">Логи процесса</text>
+<text class="small" x="1420.0" y="1109.0" text-anchor="middle" dominant-baseline="middle">и аварий</text>
+<rect class="box" x="650" y="1240" width="260" height="76" fill="#fff2cc"/>
+<text class="small" x="780.0" y="1270.0" text-anchor="middle" dominant-baseline="middle">Расходомер CAN:</text>
+<text class="small" x="780.0" y="1287.0" text-anchor="middle" dominant-baseline="middle">решить, куда подключать</text>
+<rect class="box" x="330" y="1230" width="250" height="96" fill="#fff2cc"/>
+<text class="small" x="455.0" y="1262.0" text-anchor="middle" dominant-baseline="middle">Вариант A:</text>
+<text class="small" x="455.0" y="1279.0" text-anchor="middle" dominant-baseline="middle">Arduino читает CAN</text>
+<text class="small" x="455.0" y="1296.0" text-anchor="middle" dominant-baseline="middle">для локальной реакции</text>
+<rect class="box" x="980" y="1230" width="270" height="96" fill="#fff2cc"/>
+<text class="small" x="1115.0" y="1262.0" text-anchor="middle" dominant-baseline="middle">Вариант B:</text>
+<text class="small" x="1115.0" y="1279.0" text-anchor="middle" dominant-baseline="middle">головное устройство</text>
+<text class="small" x="1115.0" y="1296.0" text-anchor="middle" dominant-baseline="middle">читает CAN для отчетов</text>
+</svg>

@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Узел смешивания</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  </head>
+  <body>
+    <main class="app">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Склад ТМЦ</p>
+          <h1>Узел смешивания</h1>
+        </div>
+        <button class="icon-button" id="sendSummary" type="button" title="Отправить сводку в Telegram">
+          <span>↗</span>
+        </button>
+      </header>
+
+      <section class="summary" aria-label="Сводка склада">
+        <article>
+          <span>Позиции</span>
+          <strong id="totalItems">0</strong>
+        </article>
+        <article>
+          <span>Жидкости</span>
+          <strong id="liquidItems">0</strong>
+        </article>
+        <article>
+          <span>Масса, кг</span>
+          <strong id="totalMass">0</strong>
+        </article>
+      </section>
+
+      <section class="toolbar" aria-label="Фильтры">
+        <label class="search">
+          <span>Поиск</span>
+          <input id="searchInput" type="search" placeholder="Препарат, группа, артикул" autocomplete="off" />
+        </label>
+        <label class="select">
+          <span>Категория</span>
+          <select id="categoryFilter">
+            <option value="">Все</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="notice">
+        Плотности в первой версии ориентировочные. Для точного дозирования заменяем их на значения из паспорта препарата.
+      </section>
+
+      <section class="list" id="stockList" aria-label="Остатки склада"></section>
+    </main>
+
+    <template id="itemTemplate">
+      <article class="stock-card">
+        <div class="card-head">
+          <div>
+            <h2></h2>
+            <p class="meta"></p>
+          </div>
+          <span class="status"></span>
+        </div>
+        <div class="metrics">
+          <div>
+            <span>Остаток</span>
+            <strong class="quantity"></strong>
+          </div>
+          <label>
+            <span>Плотность</span>
+            <input class="density" type="number" min="0" step="0.001" inputmode="decimal" />
+          </label>
+          <div>
+            <span>Масса</span>
+            <strong class="mass"></strong>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script src="./data/inventory.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

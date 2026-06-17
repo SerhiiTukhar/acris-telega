@@ -81,7 +81,7 @@ Telegram не открывает Mini App из `file:///...`. Для Telegram н
 После публикации приложение должно открываться по ссылке:
 
 ```text
-https://serhiitukhar.github.io/AcrisTelegram/
+https://serhiitukhar.github.io/acris-telega/
 ```
 
 Обычный порядок:

@@ -23,7 +23,7 @@
 После публикации ссылка должна быть такой:
 
 ```text
-https://serhiitukhar.github.io/AcrisTelegram/
+https://serhiitukhar.github.io/acris-telega/
 ```
 
 ## 2. Проверить GitHub Pages
@@ -31,7 +31,7 @@ https://serhiitukhar.github.io/AcrisTelegram/
 На GitHub открой репозиторий:
 
 ```text
-https://github.com/SerhiiTukhar/AcrisTelegram
+https://github.com/SerhiiTukhar/acris-telega
 ```
 
 Дальше:
@@ -70,7 +70,7 @@ Bot Settings -> Menu Button -> Configure menu button
 Вставь ссылку:
 
 ```text
-https://serhiitukhar.github.io/AcrisTelegram/
+https://serhiitukhar.github.io/acris-telega/
 ```
 
 Название кнопки, например:

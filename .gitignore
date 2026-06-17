@@ -1,4 +1,5 @@
 node_modules/
 *.inspect.ndjson
 *.log
-
+*.code-workspace
+telegram-app/tokenTelegram.txt

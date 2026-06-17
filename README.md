@@ -72,8 +72,32 @@ node tools/build_inventory.mjs
 
 Telegram не открывает Mini App из `file:///...`. Для Telegram нужна публичная HTTPS-ссылка.
 
+Для этого проекта подготовлен GitHub Pages workflow:
+
+```text
+.github/workflows/deploy-telegram-app.yml
+```
+
+После публикации приложение должно открываться по ссылке:
+
+```text
+https://serhiitukhar.github.io/AcrisTelegram/
+```
+
 Обычный порядок:
 
 1. Создать бота через `@BotFather`.
 2. Опубликовать папку `telegram-app` на HTTPS-хостинге.
 3. В `@BotFather` настроить кнопку меню бота и указать ссылку на приложение.
+
+Подробная инструкция:
+
+```text
+TELEGRAM_SETUP.md
+```
+
+Для публикации изменений в GitHub можно запустить:
+
+```powershell
+.\publish-telegram-app.cmd
+```

@@ -6,7 +6,11 @@
   "scripts": {
     "start": "node telegram-app/server.mjs --open",
     "app": "node telegram-app/server.mjs --open",
-    "rebuild": "node tools/build_inventory.mjs"
+    "rebuild": "node tools/build_inventory.mjs",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.101.0"
   }
 }
-
